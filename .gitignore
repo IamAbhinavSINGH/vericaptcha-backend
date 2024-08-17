@@ -1,0 +1,5 @@
+__pycache__/
+mongo_creds.py
+*.pyc
+venv/
+.idea/
